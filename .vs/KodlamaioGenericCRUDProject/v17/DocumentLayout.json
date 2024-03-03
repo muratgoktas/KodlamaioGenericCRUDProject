@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\businees\\concrete\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\businees\\concrete\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\businees\\abstract\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\businees\\abstract\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\dataaccess\\concrete\\inmemorycoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\dataaccess\\concrete\\inmemorycoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\businees\\abstract\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\businees\\abstract\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\businees\\abstract\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\businees\\abstract\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\dataaccess\\abstract\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\dataaccess\\abstract\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\dataaccess\\abstract\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\dataaccess\\abstract\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\entities\\concrete\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\entities\\concrete\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\entities\\concrete\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\entities\\concrete\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\entities\\concrete\\coursedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\entities\\concrete\\coursedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\entities\\concrete\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\entities\\concrete\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|d:\\murattools\\csharpprojects\\kodlamaiogenericcrudproject\\kodlamaiogenericcrudproject\\entities\\concrete\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58548FA-328A-4F19-AB1B-ADBB5232B193}|KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject.csproj|solutionrelative:kodlamaiogenericcrudproject\\entities\\concrete\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Program.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Program.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Program.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:30:23.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Businees\\Concrete\\CourseManager.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Businees\\Concrete\\CourseManager.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Businees\\Concrete\\CourseManager.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Businees\\Concrete\\CourseManager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:02:03.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Businees\\Abstract\\IService.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Businees\\Abstract\\IService.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Businees\\Abstract\\IService.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Businees\\Abstract\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:58:21.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Businees\\Abstract\\ICourseService.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Businees\\Abstract\\ICourseService.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Businees\\Abstract\\ICourseService.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Businees\\Abstract\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:52:31.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\Course.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\Course.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\Course.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:47:40.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Abstract\\IEntity.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Entities\\Abstract\\IEntity.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Abstract\\IEntity.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Entities\\Abstract\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:47:27.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryCourseDal.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\DataAccess\\Concrete\\InMemoryCourseDal.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\DataAccess\\Concrete\\InMemoryCourseDal.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\DataAccess\\Concrete\\InMemoryCourseDal.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\DataAccess\\Concrete\\InMemoryCourseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:46:57.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\DataAccess\\Abstract\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\DataAccess\\Abstract\\IBaseRepository.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\DataAccess\\Abstract\\IBaseRepository.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\DataAccess\\Abstract\\IBaseRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:46:43.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\DataAccess\\Abstract\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\DataAccess\\Abstract\\ICourseDal.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\DataAccess\\Abstract\\ICourseDal.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\DataAccess\\Abstract\\ICourseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:46:28.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Businees\\Abstract\\IBaseService.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Businees\\Abstract\\IBaseService.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Businees\\Abstract\\IBaseService.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Businees\\Abstract\\IBaseService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:46:32.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\BaseEntity.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\BaseEntity.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:47:30.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\Category.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\Category.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:47:35.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseDetail.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\CourseDetail.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\CourseDetail.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\CourseDetail.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\CourseDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:48:06.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\Instructor.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\Instructor.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\Instructor.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:48:26.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\Person.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:48:35.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\Student.cs",
+              "RelativeDocumentMoniker": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\Student.cs",
+              "ToolTip": "D:\\MuratTOOLS\\CSharpProjects\\KodlamaioGenericCRUDProject\\KodlamaioGenericCRUDProject\\Entities\\Concrete\\Student.cs",
+              "RelativeToolTip": "KodlamaioGenericCRUDProject\\Entities\\Concrete\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:48:43.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
